@@ -1,0 +1,14 @@
+
+torch
+torchvision
+numpy
+pandas
+Pillow
+scikit-learn
+matplotlib
+seaborn
+tqdm
+fastapi
+uvicorn
+pydantic
+jupyter
